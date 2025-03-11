@@ -7,5 +7,5 @@ This project analyzes Olympic data from Kaggle. It includes medal tally calculat
 - Country-wise performance analysis  
 - Overall Olympic trends  
 
-🔍 **Dataset:** Kaggle Olympic Data  
+🔍 **Dataset:** Kaggle Olympic Data  - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 📌 **Tools Used:** Python, Pandas, Matplotlib, Seaborn 
