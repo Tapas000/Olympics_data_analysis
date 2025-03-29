@@ -13,10 +13,11 @@ This project presents a Power BI dashboard for analyzing coffee shop sales data.
 
 ## Screenshots
 ### Full Sales Overview
-![Coffee Shop Sales Dashboard](image1.png)
+![image](https://github.com/user-attachments/assets/ee598740-5ec7-4f60-aae3-27324def6a1d)
 
 ### Filtered View
-![Filtered Sales Data](image2.png)
+![image](https://github.com/user-attachments/assets/eaba3a92-6a7f-4d6f-95aa-f051498d0725)
+
 
 ## Dataset
 The dataset contains various attributes such as:
